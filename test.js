@@ -1,3 +1,3 @@
-import { buttonPresets } from "./index.js";
+import { theme } from "./index.js";
 
-console.log(buttonPresets);
+console.dir(theme, {depth: null});
